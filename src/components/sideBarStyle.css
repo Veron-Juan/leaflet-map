@@ -1,0 +1,10 @@
+.container-sidebar {
+    height:80vh;
+    width:320px;
+    background:#171B34;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    color: white;
+    border-radius: 20px
+}
